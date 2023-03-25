@@ -1,0 +1,10 @@
+ll_env/
+mpenv/
+*.png
+*.eps
+.die_visual.py.swp .hn_submissions.py.swp .rw_visual.py.swp
+__pycache__/
+*log
+.die_visual.py.swp
+.hn_submissions.py.swp
+.rw_visual.py.swp
